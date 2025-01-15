@@ -1,4 +1,4 @@
-# 🐾 Olá, eu sou o Bruce Santos! 👋
+# 👋 Olá, eu sou o Ryan Silva! 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato acenando" width="200"/>
@@ -38,7 +38,7 @@ Desenvolvedor apaixonado por tecnologia, 🧑‍💻 com foco em **soluções es
 <div align="center">
   <img src="https://media.giphy.com/media/1CatGvNZTajK6YxIEv/giphy.gif" alt="Gato explorando" width="300"/>
 </div>
-**Descrição:** Meu portfólio pessoal para exibir habilidades e projetos.  
+**Descrição:** FrontEnd de alta performance, intuitiva e integrado com a API.  
 **Tecnologias:** ReactJS, TypeScript, ShadCNUI.
 
 ---
@@ -59,8 +59,8 @@ Desenvolvedor apaixonado por tecnologia, 🧑‍💻 com foco em **soluções es
 ---
 
 ## 📫 Como me encontrar
-- **🌐 LinkedIn**: [linkedin.com/in/brucesantss](https://linkedin.com/in/brucesantss)  
-- **📧 Email**: [bruce.santss@gmail.com](mailto:bruce.santss@gmail.com)  
+- **🌐 LinkedIn**: [linkedin.com/in/ryanhenriquedev](https://linkedin.com/in/brucesantss)  
+- **📧 Email**: [thisisryan.dev@gmail.com](mailto:bruce.santss@gmail.com)  
 
 <div align="center">
   <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" alt="Gato de tchau" width="200"/>
