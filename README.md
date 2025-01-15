@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou o Ryan! 👋
 
 ## Sobre mim
 - 🎓 [Sua formação ou área de especialização]
