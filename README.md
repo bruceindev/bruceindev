@@ -1,39 +1,49 @@
-# Olá, eu sou o Bruce Santos! 👋
+# 🐾 Olá, eu sou o Bruce Santos! 👋
 
-Desenvolvedor apaixonado por criar soluções elegantes e funcionais com foco em tecnologia moderna. 🚀  
-Atualmente trabalho com **Node.js**, **React**, **TypeScript**, **MySQL** e outras ferramentas incríveis. Sempre em busca de aprendizado constante e desafios emocionantes.  
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato acenando" width="200"/>
+</div>
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+Desenvolvedor apaixonado por tecnologia, 🧑‍💻 com foco em **soluções escaláveis e elegantes**. Sou especialista em ferramentas modernas como **Node.js**, **ReactJS**, **TypeScript** e bancos de dados como **MySQL** e **PostgreSQL**. Sempre explorando novos desafios e evoluindo constantemente! 🚀
 
 ---
 
-## 📌 Projetos em Destaque
-
-### 🌐 [Projeto 1: Meu Site Pessoal](https://github.com/brucesantss/meu-site-pessoal)  
-Uma aplicação moderna e responsiva que serve como meu portfólio online.  
-**Tecnologias**: React, TypeScript, Styled Components, Vercel.  
-
-### ⚙️ [Projeto 2: API de E-commerce](https://github.com/brucesantss/api-ecommerce)  
-API RESTful completa para gerenciamento de um sistema de e-commerce.  
-**Tecnologias**: Node.js, Express, MongoDB, JWT, Swagger.
-
-### 🛠️ [Projeto 3: Template Fullstack](https://github.com/brucesantss/template-fullstack)  
-Um template boilerplate configurado para projetos fullstack.  
-**Tecnologias**: React, Node.js, TypeScript, Prisma ORM.
+## 🌟 Tecnologias que utilizo
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/ShadCNUI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="ShadCNUI" />
+  <img src="https://img.shields.io/badge/PrismaORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="PrismaORM" />
+</div>
 
 ---
 
-## 💻 Estatísticas
+## 🐱 Projetos em Destaque
 
+### 📂 [Projeto 1: API de Comics](https://github.com/brucesantss/reduce-vite)  
+<div align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Gato no computador" width="300"/>
+</div>
+**Descrição:** API RESTful completa para gerenciar comics, assinaturas, usuários.  
+**Tecnologias:** Node.js, Express, MySQL, Prisma ORM, AWS, TypeScript, Session, ZOD, Redis.  
+
+---
+
+### 🌐 [Projeto 2: Front-end de Comics](https://github.com/xDGxx/tum-vite)  
+<div align="center">
+  <img src="https://media.giphy.com/media/1CatGvNZTajK6YxIEv/giphy.gif" alt="Gato explorando" width="300"/>
+</div>
+**Descrição:** Meu portfólio pessoal para exibir habilidades e projetos.  
+**Tecnologias:** ReactJS, TypeScript, ShadCNUI.
+
+---
+
+## 📈 Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brucesantss&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucesantss&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px"/>
@@ -41,16 +51,17 @@ Um template boilerplate configurado para projetos fullstack.
 
 ---
 
-## 🌱 Atualmente Estudando
-
-- Desenvolvimento em **Next.js** e **GraphQL**.
-- Práticas de escalabilidade em back-end utilizando **Redis** e **AWS Lambda**.
-- Automação de deploys com **CI/CD**.
+## 🎯 O que estou estudando
+- **Next.js** e otimizações para aplicações server-side.
+- **CI/CD** e automação de deploys com Docker e GitHub Actions.
+- Escalabilidade com **Redis** e arquitetura em microsserviços.
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Como me encontrar
+- **🌐 LinkedIn**: [linkedin.com/in/brucesantss](https://linkedin.com/in/brucesantss)  
+- **📧 Email**: [bruce.santss@gmail.com](mailto:bruce.santss@gmail.com)  
 
-- **LinkedIn**: [linkedin.com/in/brucesantss](https://linkedin.com/in/brucesantss)  
-- **Email**: [bruce.santss@gmail.com](mailto:bruce.santss@gmail.com)  
-- **Portfólio**: [brucesantss.dev](https://brucesantss.dev)  
+<div align="center">
+  <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" alt="Gato de tchau" width="200"/>
+</div>
