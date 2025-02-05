@@ -1,12 +1,8 @@
-# Ryan Jesus
+# Ryan Jesus ![GitHub followers](https://img.shields.io/github/followers/thomasdacosta?style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/brucesantss?style=social)
+## [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.youtube.com/@brucenextdoor)]([https://www.youtube.com/@brucenextdoor](https://www.youtube.com/@brucenextdoor)) [Meu Canal no YouTube](https://www.youtube.com/@brucenextdoor)
 
-## 🌐 Redes Sociais
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euryanjesus/)](https://www.linkedin.com/in/euryanjesus/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brucesantss)](https://github.com/brucesantss)
-
-## 🚀 Tecnologias
+## Tecnologias
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
@@ -18,7 +14,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📌 Sobre Mim
-💻 **Desenvolvedor Full Stack** especializado em aplicações escaláveis e de alta performance.
+💻 ***Desenvolvedor Full Stack** | Especializado em aplicações escaláveis e de alta performance.*
 - 🔹 Experiência com desenvolvimento **Back-End e Front-End** usando **Java, Node.js, React e TypeScript**.
 - 🔹 Domínio de bancos de dados **MySQL, PostgreSQL, MongoDB**.
 - 🔹 Conhecimento em **Docker, Prisma ORM, AWS (S3, EC2, RDS, Lambda) e CI/CD**.
