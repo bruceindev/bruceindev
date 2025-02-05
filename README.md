@@ -24,10 +24,10 @@
 - 📚 **Centro Universitário SENAC** – *Análise e Desenvolvimento de Sistemas (01/2024 - Presente)*
 
 ## 🌐 Linguagens
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brucesantss&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brucesantss&layout=compact&theme=radical)
 
 # 🛂 Github Status
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=brucesantss&show_icons=true)
+![GitHub Status](ttps://github-readme-stats.vercel.app/api?username=brucesantss&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 - **🌐 LinkedIn**: [linkedin.com/in/euryanjesus](https://linkedin.com/in/euryanjesus)  
