@@ -10,9 +10,9 @@
 ## 🚀 Projetos em Destaque
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
-| **TUM** | Plataforma interativa com renderização dinâmica de quadrinhos, upload de alta performance e atualizações em tempo real. | Node.js, Prisma, React, TailwindCSS, WebSocket | [🌐 Demo](https://tumdemo.com) • [📂 Código](https://github.com/seuprojeto) |
+| **TUM** | Plataforma interativa com renderização dinâmica de quadrinhos, upload de alta performance e atualizações em tempo real. | Node.js, Prisma, React, TailwindCSS, WebSocket | • [📂 Código](https://github.com/bruceindev/tum-api) |
 | **Automação Jurídica GR5** | Robôs para extração de dados de tribunais, integração com IA para resumo de petições. | JavaScript, Web Scraping, IA, AWS | *Privado* |
-| **Financeiro Lite** | Sistema de controle financeiro com cálculo de saldo e alertas automáticos por e-mail. | Node.js, React, PostgreSQL, AWS SES | [📂 Código](https://github.com/seuprojeto2) |
+| **CASE The News** | Desafio do The News, aonde o objetivo era criar uma platafroma de STREAK para leitores. | NodeJS, WebHook, ReactJS, Typescript | [📂 Código](https://github.com/bruceindev/thenews-case) |
 
 ---
 
@@ -31,8 +31,8 @@
 ---
 
 ## 📊 Estatísticas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brucesantss&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brucesantss&show_icons=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruceindev&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruceindev&show_icons=true&theme=radical)
 
 ---
 
