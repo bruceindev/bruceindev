@@ -5,7 +5,7 @@
   <h1>Hi, I'm Ryan 👋</h1>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Software+Developer+%40+PwC+Brasil;Distributed+Systems+%26+Backend+Architecture;Transactional+Integrity+%26+Ledgers;Creator+of+the+NO+MORE+BUGS+Community" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Associate+%40+PwC+Brasil;Distributed+Systems+%26+Backend+Architecture;Transactional+Integrity+%26+Ledgers;Creator+of+the+NO+MORE+BUGS+Community" alt="Typing SVG" />
   </a>
 
   <br /><br />
