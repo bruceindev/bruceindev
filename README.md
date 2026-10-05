@@ -1,81 +1,148 @@
 <div align="center">
 
-# Ryan Jesus
-**Software Engineer · Backend & Systems Architecture**  
-São Paulo, Brazil · Digital Assurance & Transparency @ **PwC Brasil**
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="340" alt="Cozy Coding Loop" style="border-radius: 12px;" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/euryanjesus)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:euryanjesus@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@brucepestinha)
+  <h1>Hi, I'm Ryan 👋</h1>
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Software+Developer+%40+PwC+Brasil;Distributed+Systems+%26+Backend+Architecture;Transactional+Integrity+%26+Ledgers;Creator+of+the+NO+MORE+BUGS+Community" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://linkedin.com/in/euryanjesus">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:euryanjesus@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@brucepestinha">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <br /><br />
+
+  <p><em>"simple code."</em></p>
 
 </div>
 
 ---
 
-### 📌 Overview
+### ⭐ MYSELF
 
-Desenvolvedor de software com foco em **sistemas de alta confiabilidade, integridade transacional e arquiteturas escaláveis**. Atualmente na **PwC Brasil** atuando em Digital Assurance & Transparência, na interseção entre engenharia de dados, infraestrutura em nuvem e automação inteligente.
-
-Minha filosofia de engenharia é orientada a **domínio, auditabilidade e previsibilidade**: construir sistemas onde consistência financeira (saldos, conciliações e liquidações) nunca falha, e onde decisões arquiteturais são fundamentadas em trade-offs claros, não apenas em tendências.
-
----
-
-### 🏗️ Technical Domain & Architecture
-
-```
-Core Capabilities
-├── Architecture: Hexagonal (Ports & Adapters), Event-Driven, CQRS, Transactional Outbox
-├── Backend:      Node.js, TypeScript, Java, REST APIs, WebSockets
-├── Data Systems: PostgreSQL, MySQL, Supabase, MongoDB, ACID Transactions, Concurrency Control
-├── Cloud & Ops:  Azure, AWS, Docker, CI/CD, Containerization
-└── Frontend:     React, Next.js, Modern UI Architecture, Component Systems
-```
+- 🔭 **Currently:** Associate at **PwC Brasil** (HUB ID&IA), working at the intersection of data engineering, cloud infrastructure, and intelligent automation.
+- 🎯 **Engineering Focus:** Building high-reliability systems where financial consistency (ledger balances, reconciliation, and settlement) is mathematically exact and auditable.
+- 🔬 **Exploring & Researching:** Distributed systems resilience, **Transactional Outbox/Inbox patterns**, **CQRS**, and deterministic **Autonomous AI Agents**.
+- 🎧 **Vibe:** Lo-fi beats, clean dark mode, pragmatic architecture discussions, and continuous learning.
+- 💬 **Ask me about:** Concurrency control, double-entry ledgers, race condition mitigation, and backend trade-offs.
 
 ---
 
-### 🚀 Selected Engineering Projects
+### 🪴 STACKS
 
-#### 01. [Conexa](https://github.com/bruceindev) — Financial Ledger & Settlement Engine
-> *Motor de liquidação financeira e ledger contábil focado em integridade transacional estrita.*
-- **Engenharia de Consistência**: Implementação de princípios de partidas dobradas (*double-entry bookkeeping*) para garantir auditabilidade imutável e zero desvio de saldo.
-- **Controle de Concorrência**: Isolamento e locks pessimistas/otimistas para prevenção de *double-spending* e *race conditions* sob acessos simultâneos a saques e depósitos.
-- **Stack**: `Node.js` · `PostgreSQL` · `ACID Transactions` · `Docker`
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,java,react,nextjs,postgres,mysql,supabase,mongodb,prisma,docker,azure,aws,tailwind,git,github&perline=9" alt="Tech Stack" />
+  </a>
+</div>
 
-#### 02. [TUM](https://github.com/bruceindev/tum-api) — Real-Time Media & Content Engine
-> *Plataforma distribuída para ingestão de conteúdo com baixa latência e comunicação bi-direcional.*
-- **Arquitetura Reativa**: Pipeline de eventos em tempo real via WebSockets para sincronização de estado instantânea entre clientes conectados.
-- **Desacoplamento**: Camadas de serviço isoladas com TypeScript rigoroso e persistência relacional otimizada via Prisma.
-- **Stack**: `TypeScript` · `Node.js` · `WebSockets` · `Prisma` · `React`
+<br />
 
-#### 03. [BIG DEAL](https://github.com/bruceindev) — Financial Scheduling & AI Intelligence
-> *Motor de projeção financeira determinística com processamento de linguagem natural.*
-- **Regra de Negócios**: Modelagem temporal de ciclos de faturamento, amortização de parcelas e conciliação de faturas futuras.
-- **Integração com LLM**: Pipeline de assistência contextual para categorização semântica de gastos e inferência de métricas de economia.
-- **Stack**: `Next.js` · `Express` · `PostgreSQL` · `Prisma` · `LLM Integration`
-
-#### 04. Legal Automation Pipelines — GR5 Process Engine
-> *Sistemas de automação autônoma para extração, validação e saneamento de dados judiciais.*
-- **Impacto**: **Redução de ~70% nos erros operacionais humanos** nas primeiras duas semanas de execução em produção.
-- **Resiliência**: Mecanismos de retry exponencial, dead-letter alerts e validação de schemas em runtime.
-- **Stack**: `Node.js` · `Automation Systems` · `Fault Tolerance`
+| Domain | Core Technologies & Patterns |
+|:---|:---|
+| **Architecture & Patterns** | Hexagonal (Ports & Adapters), Event-Driven, CQRS, Transactional Outbox, Domain-Driven Design |
+| **Backend & Services** | Node.js, TypeScript, Express, Java, WebSockets, RESTful APIs |
+| **Databases & Integrity** | PostgreSQL, MySQL, Supabase, MongoDB, Prisma ORM, ACID Transactions, Concurrency Locks |
+| **Cloud & Infrastructure** | Microsoft Azure, AWS, Docker, GitHub Actions CI/CD, Railway, Vercel |
+| **Frontend Engineering** | React, Next.js, TypeScript, Tailwind CSS, Component Systems |
 
 ---
 
-### 🔬 Engineering Research & Current Focus
+### 📦 PROJECTS
 
-- **Distributed Systems Resilience**: Implementação prática de consistência eventual através de *Transactional Outbox/Inbox* e mensageria assíncrona.
-- **Cloud Architecture**: Aprofundamento em fundamentos de infraestrutura distribuída e serviços gerenciados na **Microsoft Azure**.
-- **Autonomous Systems**: Engenharia de agentes de IA com tool-calling determinístico e validação formal de saídas.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💳 <a href="https://github.com/bruceindev">Conexa</a></h3>
+      <p align="center"><strong>Financial Ledger & Settlement Engine</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql" />
+        <img src="https://img.shields.io/badge/ACID-18181b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker" />
+      </p>
+      <ul>
+        <li><strong>Consistency:</strong> Implemented double-entry bookkeeping architecture to guarantee immutable audit logs and 0% balance drift.</li>
+        <li><strong>Concurrency:</strong> Transactional isolation levels and row-level locks preventing race conditions and double-spending during concurrent withdrawals.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/bruceindev/tum-api">TUM</a></h3>
+      <p align="center"><strong>Real-Time Content & Media Platform</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/WebSockets-18181b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Prisma-18181b?style=flat-square&logo=prisma" />
+        <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react" />
+      </p>
+      <ul>
+        <li><strong>Real-Time Streaming:</strong> Bi-directional WebSocket pipeline for low-latency state synchronization across distributed clients.</li>
+        <li><strong>Decoupled Architecture:</strong> Strict TypeScript service boundaries with optimized relational persistence via Prisma.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 <a href="https://github.com/bruceindev">BIG DEAL</a></h3>
+      <p align="center"><strong>Financial Scheduling & AI Assistant</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/Express-18181b?style=flat-square&logo=express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql" />
+        <img src="https://img.shields.io/badge/LLM_Agents-18181b?style=flat-square" />
+      </p>
+      <ul>
+        <li><strong>Deterministic Engine:</strong> Time-series modeling for credit billing cycles, future installment amortization, and cash flow projections.</li>
+        <li><strong>AI Pipeline:</strong> Natural language assistant integrating LLMs for semantic transaction categorization and savings suggestions.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/bruceindev">Legal Automation Pipelines</a></h3>
+      <p align="center"><strong>GR5 Process Automation Engine</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js" />
+        <img src="https://img.shields.io/badge/Automation-18181b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Resilience-18181b?style=flat-square" />
+      </p>
+      <ul>
+        <li><strong>Impact:</strong> <strong>Reduced human operational errors by ~70%</strong> within the first two weeks of live production deployment.</li>
+        <li><strong>Fault Tolerance:</strong> Exponential backoff retries, schema sanitization, dead-letter monitoring, and robust exception recovery.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Community & Ecosystem
+### 💿 OUTSIDE THE TERMINAL
 
-- **NO MORE BUGS**: Fundador e mantenedor de comunidade focada em engenharia de software pragmática, arquitetura de sistemas e discussões de produção.
-- **Tech Content ([@brucepestinha](https://youtube.com/@brucepestinha))**: Produção de conteúdo focado em bastidores de engenharia, integridade de código e decisões de arquitetura.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌱 NO MORE BUGS Community</h4>
+      <p>Founder and lead maintainer of a growing developer community focused on pragmatic software craftsmanship, system architecture, and production readiness.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📹 YouTube (<a href="https://youtube.com/@bruceocriador">@bruceocriador</a>)</h4>
+      <p>Creating technical breakdowns on system design, code integrity, software trade-offs, and backend engineering workflows.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <sub>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</sub>
+  <sub>☁️ <em>"create like a boy, edit like a scientist."</em> — Tyler, the creator.</sub>
 </div>
